@@ -75,7 +75,7 @@ USER_AGENTS = [
     "Mozilla/50 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"
 ]
 
-HF_TOKEN = "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" 
+HF_TOKEN = "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" 
 MODEL_ID = "black-forest-labs/FLUX.1-schnell"
 IMAGE_MODEL_ID = "stabilityai/stable-diffusion-2-1" 
 
