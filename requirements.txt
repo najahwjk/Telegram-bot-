@@ -1,2 +1,4 @@
 pyTelegramBotAPI
 requests
+aiohttp
+urllib3
